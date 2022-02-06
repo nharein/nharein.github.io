@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="17.7323"
+   height="18"
+   viewBox="0 0 17.7323 18"
+   fill="none"
+   version="1.1"
+   id="svg97"
+   sodipodi:docname="facebook.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview99"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="31.038462"
+     inkscape:cx="8.77943"
+     inkscape:cy="9.5526642"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg97" />
+  <g
+     clip-path="url(#clip0_10_2)"
+     filter="url(#filter0_d_10_2)"
+     id="g73"
+     transform="translate(-0.509232)">
+    <path
+       d="m 12.3285,2.98875 h 1.6189 v -2.862 C 13.6681,0.08775 12.7076,0 11.589,0 9.25495,0 7.65609,1.49025 7.65609,4.22925 V 6.75 H 5.08047 V 9.9495 H 7.65609 V 18 H 10.8139 V 9.95025 h 2.4715 l 0.3923,-3.1995 H 10.8132 V 4.5465 c 7e-4,-0.92475 0.246,-1.55775 1.5153,-1.55775 z"
+       fill="#ffffff"
+       id="path71" />
+  </g>
+  <defs
+     id="defs95">
+    <filter
+       id="filter0_d_10_2"
+       x="-3.4907701"
+       y="0"
+       width="25.7323"
+       height="26"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood75" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix77" />
+      <feOffset
+         dy="4"
+         id="feOffset79" />
+      <feGaussianBlur
+         stdDeviation="2"
+         id="feGaussianBlur81" />
+      <feComposite
+         in2="hardAlpha"
+         operator="out"
+         id="feComposite83" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"
+         id="feColorMatrix85" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_10_2"
+         id="feBlend87" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow_10_2"
+         result="shape"
+         id="feBlend89" />
+    </filter>
+    <clipPath
+       id="clip0_10_2">
+      <rect
+         width="17.7323"
+         height="18"
+         fill="#ffffff"
+         transform="translate(0.509232)"
+         id="rect92"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+</svg>
